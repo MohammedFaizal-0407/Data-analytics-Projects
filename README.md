@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects
+# 📊 EXCEL Data Analytics Projects
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Excel+%7C+Power+BI+%7C+Data+Visualization;Business+Intelligence+Projects;Real-World+Data+Analytics+Case+Studies" alt="Typing SVG" />
